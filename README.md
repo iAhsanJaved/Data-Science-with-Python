@@ -32,7 +32,10 @@ Data Science with Python from Scratch
    - Unsupervised Learning
 10. Deep Learning
 11. Intoduction to TensorFlow
- 
-   
-    
+
+### Books
+- [Data Science from Scratch By Joel Grus] (http://shop.oreilly.com/product/0636920033400.do)
+### References
+- https://www.datacamp.com/tracks/data-scientist-with-python
+
    
