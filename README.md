@@ -34,7 +34,7 @@ Data Science with Python from Scratch
 11. Intoduction to TensorFlow
 
 ### Books
-- [Data Science from Scratch By Joel Grus] (http://shop.oreilly.com/product/0636920033400.do)
+- [Data Science from Scratch By Joel Grus](http://shop.oreilly.com/product/0636920033400.do)
 ### References
 - https://www.datacamp.com/tracks/data-scientist-with-python
 
