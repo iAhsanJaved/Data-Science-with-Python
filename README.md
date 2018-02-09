@@ -1,5 +1,4 @@
 # Data-Science-with-Python
-Data Science with Python from Scratch 
 
 
 ## Course Outline
@@ -40,7 +39,7 @@ Data Science with Python from Scratch
 
 ### Join us on Facebook
 https://www.facebook.com/groups/DataScienceLive/
-### Subcribe me on YouTube
+### Subscribe me on YouTube
 https://www.youtube.com/channel/UCB0sd6Gt02DlQpqnooUt2pA
 
    
