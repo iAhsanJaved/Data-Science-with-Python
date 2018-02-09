@@ -45,10 +45,10 @@
    - Unsupervised Learning
    - Reinforcement Learning
 10. Deep Learning
-   - Neural Network
+   - Neural Networks
    - Building Deep Learning Models
    - Optimizing Deep Learning Models 
-   
+
 ### Books
 - [Data Science from Scratch, by Joel Grus](http://shop.oreilly.com/product/0636920033400.do)
 - [Data Science For Dummies, by Lillian Pierson](https://www.amazon.com/Data-Science-Dummies-Lillian-Pierson/dp/1119174104/)
