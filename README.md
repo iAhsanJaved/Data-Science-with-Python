@@ -44,7 +44,7 @@
    - Supervised Learning
    - Unsupervised Learning
    - Reinforcement Learning
-9. Machine Learning
+10. Machine Learning
    - Supervised Learning
    - Unsupervised Learning
    - Reinforcement Learning
