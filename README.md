@@ -36,7 +36,7 @@
 - [Data Science from Scratch, by Joel Grus](http://shop.oreilly.com/product/0636920033400.do)
 - [Data Science For Dummies, by Lillian Pierson](https://www.amazon.com/Data-Science-Dummies-Lillian-Pierson/dp/1119174104/)
 - [Machine Learning Yearning, by Andrew Ng](http://www.mlyearning.org/)
-- [Think Stats: Probability and Statistics for Programmers](http://www.greenteapress.com/thinkstats/)
+- [Think Stats: Probability and Statistics for Programmers, by Allen B. Downey](http://www.greenteapress.com/thinkstats/)
 ### References
 - https://www.datacamp.com/tracks/data-scientist-with-python
 
