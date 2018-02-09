@@ -38,4 +38,9 @@ Data Science with Python from Scratch
 ### References
 - https://www.datacamp.com/tracks/data-scientist-with-python
 
+### Join us on Facebook
+https://www.facebook.com/groups/DataScienceLive/
+### Subcribe me on YouTube
+https://www.youtube.com/channel/UCB0sd6Gt02DlQpqnooUt2pA
+
    
