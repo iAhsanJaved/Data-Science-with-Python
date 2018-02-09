@@ -24,7 +24,6 @@
    - Import Data using APIs
 5. Cleaning Data in Python
    - Clean Data using SOAP
-   - 
 6. Introduction to Databases
    - SQL Databases
    - NoSQL Databases      
