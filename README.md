@@ -1,4 +1,5 @@
 # Data-Science-with-Python
+![alt text](https://preview.ibb.co/b4DZ0c/Banner.png)
 
 
 ## Course Outline
@@ -57,9 +58,9 @@
 ### References
 - https://www.datacamp.com/tracks/data-scientist-with-python
 
-### Join us on Facebook
+### Join us on Facebook 👍
 https://www.facebook.com/groups/DataScienceLive/
-### Subscribe me on YouTube
+### Subscribe me on YouTube ❤️
 https://www.youtube.com/channel/UCB0sd6Gt02DlQpqnooUt2pA
 
    
