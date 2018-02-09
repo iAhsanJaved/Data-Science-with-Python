@@ -44,10 +44,10 @@
    - Supervised Learning
    - Unsupervised Learning
    - Reinforcement Learning
-10. Deep Learning
-   - Neural Networks
-   - Building Deep Learning Models
-   - Optimizing Deep Learning Models 
+9. Machine Learning
+   - Supervised Learning
+   - Unsupervised Learning
+   - Reinforcement Learning
 
 ### Books
 - [Data Science from Scratch, by Joel Grus](http://shop.oreilly.com/product/0636920033400.do)
