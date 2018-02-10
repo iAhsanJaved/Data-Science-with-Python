@@ -51,6 +51,7 @@
     - Optimizing Deep Learning Models 
 
 ### Books
+- [Starting Out with Python](https://www.amazon.com/Starting-Out-Python-Tony-Gaddis/dp/0134444329)
 - [Data Science from Scratch, by Joel Grus](http://shop.oreilly.com/product/0636920033400.do)
 - [Data Science For Dummies, by Lillian Pierson](https://www.amazon.com/Data-Science-Dummies-Lillian-Pierson/dp/1119174104/)
 - [Machine Learning Yearning, by Andrew Ng](http://www.mlyearning.org/)
